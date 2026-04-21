@@ -23,5 +23,10 @@ Basic exploratory data analysis on Netflix dataset.
 ### Content Over Time
 <img width="560" height="467" alt="image" src="https://github.com/user-attachments/assets/391bc38b-103a-4b5c-b89b-5e66413585a8" />
 
+## How to Run
+1. Download dataset from Kaggle  
+2. Open the notebook (.ipynb)  
+3. Run all cells 
+
 ## Conclusion
 This project analyzes Netflix content trends using Pandas and visualization.
